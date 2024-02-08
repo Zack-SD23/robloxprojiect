@@ -1,0 +1,56 @@
+/* CSS Document */
+/* Author: Zack Cline
+date: 2/08/2024
+File Name: styles.css 
+*/ 
+
+
+
+body, h1, h2, block-quote, table {
+
+}
+
+body {
+	background-color: #72B9FE;
+}
+
+nav{
+	padding: 1%;
+	margin-bottom: 1%;
+	text-align: center;
+	background-color:#F8CD04;
+}
+
+main {
+	font-size: 25px;
+}
+
+a {
+ 	text-decoration: none;
+	font-weight: bold;
+	color: #000000;
+	margin: 0 10px;
+}
+
+img{
+	max-width: 100%;
+	display: block;
+}
+
+#studio {
+	width:50%;
+	height: 50%;
+	float: right;
+	margin:5px;
+}
+header img{
+		margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align:center;
+	font-weight:bold;
+}
